@@ -282,8 +282,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 👨‍💻 Author
+---
 
-**Mahdi Hasan Shuvo**
+## 💼 Contact Me for Paid Projects
+
+Have a project in mind or need expert help?  
+I'm available for **freelance work and paid collaborations**.
+
+### 📬 Get in Touch
+
+- 📧 **Email**: [shuvobbhh@gmail.com](mailto:shuvobbhh@gmail.com)
+- 💬 **Telegram**: [+8801616397082](https://t.me/+8801616397082)
+- 📱 **WhatsApp**: [+8801616397082](https://wa.me/8801616397082)
+- 🌐 **Portfolio**: [mahdi-hasan-shuvo.github.io](https://mahdi-hasan-shuvo.github.io/Mahdi-hasan-shuvo/)
+- 💻 **GitHub**: [@Mahdi-hasan-shuvo](https://github.com/Mahdi-hasan-shuvo)
+
+> *"Quality work speaks louder than words. Let's build something remarkable together."*
+
 
 ---
 
