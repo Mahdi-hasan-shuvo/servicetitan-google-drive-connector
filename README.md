@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Monitoring-24%2F7-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Retry-Auto%20Backoff-red?style=flat-square"/>
 </p>
-
+ 
 <br/>
 
 > **🔄 Keep your ServiceTitan project files and Google Drive perfectly in sync — automatically, continuously, and reliably.**
